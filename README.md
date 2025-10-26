@@ -1,6 +1,6 @@
 👋 Hi, I’m Anastácio Simplicio Té — a Computer Science undergrad studying in China under the prestigious CSC Full Scholarship.
 
-💡 I’m passionate about Artificial Intelligence, Machine Learning, and Autonomous Systems, with hands-on experience in full-stack development and voice-based AI apps.
+💡 I’m passionate about Artificial Intelligence, Machine Learning, and Autonomous Systems, with hands-on experience in full-stack development and voice-based AI apps. Passionate about music, sports and fitness as well.
 
 🧠 Currently developing GO — an AI-powered marathon trainer and voice assistant, and exploring embodied intelligence research directions.
 
